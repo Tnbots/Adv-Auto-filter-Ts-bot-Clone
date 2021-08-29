@@ -109,8 +109,7 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('⬇️ BACK', callback_data='start'),
-        InlineKeyboardButton('🔐 CLOSE', callback_data='close')
+         InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -128,8 +127,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('⬇️ BACK', callback_data='start'),
-        InlineKeyboardButton('🔐 CLOSE', callback_data='close')
+            InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
