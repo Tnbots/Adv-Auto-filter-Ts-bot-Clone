@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-Only For <b><u><a href="https://t.me/joinchat/13udlbpIidwwYTJl">Tentkottagroup</a></u></b>
+Only For </b>Tentkottagroup</a></u></b>
 For More Details Click Help Button Below..
 <b><u><a href="https://t.me/joinchat/5WbQUzL9inU1OTE1">Blasters Links</a></u></b>
 </i>"""    
