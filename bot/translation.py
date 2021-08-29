@@ -4,22 +4,15 @@
 
 class Translation(object):
     
-    START_TEXT = """
-😅 Hai {}, 
-
-I am a filter bot with advanced features 
-currently working for @{} 
-
-⚜️ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 👉 @{}
-
-START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
-    img = "https://telegra.ph/file/fc734b227985a1524e715.jpg"
-else:
-  img = START_IMG    
-"""   
     
-    HELP_TEXT = """
+    START_TEXT = """<b>Hey {}!!</b>
+<i>Am Just A Advance Auto Filter Bot....😉
+Only For <b><u><a href="https://t.me/joinchat/TRlZZilyh-MVa66t">Universal Film Studio Group</a></u></b>
+For More Details Click Help Button Below..
+<b><u><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">UFS Bot Support Group</a></u></b>
+</i>"""    
+
+ HELP_TEXT = """
 <u>💡 𝐇𝐞𝐥𝐩</u>
 Not for u
 """
