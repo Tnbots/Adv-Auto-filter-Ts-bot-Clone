@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-Only For </b>Tentkottagroup</a></u></b>
+Only For  </b>Tentkottagroup</a></u></b>
 For More Details Click Help Button Below..
 <b><u><a href="https://t.me/joinchat/5WbQUzL9inU1OTE1">Blasters Links</a></u></b>
 </i>"""    
@@ -39,10 +39,19 @@ For More Details Click Help Button Below..
 <b><u><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">UFS Bot Support Group</a></u></b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Advanced Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/lnc3f3r">LuCifer</a></i></b>
-<b>➥ Language</b> : <code>Python3</code>
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
-<b>➥ Source Code</b> : <i><a href="https://t.me/joinchat/YS-WlsUC9nFiOWM0">Contact Us</a></i>
+    ABOUT_TEXT = """
+📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
+\n○ ᴍʏ ɴᴀᴍᴇ : {}
+
+○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
+
+○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
+
+○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
+
+○ ᴠᴇʀsɪᴏɴ : 1.0.0
+
+ᴄʀᴇᴀᴛᴏʀ : [Blasters Links](https://t.me/blasters_links)
+
+[© Blasters Links](https://t.me/blasters_links)
 """
