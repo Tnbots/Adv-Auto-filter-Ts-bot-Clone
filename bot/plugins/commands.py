@@ -100,7 +100,9 @@ async def start(bot, update):
     
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.START_TEXT.format(update.from_user.first_name, GROUP_USERNAME, ADMIN_USERNAME),
+        text"""<b>Hey {}!!</b>
+            ഈ ബോട്ട് <b><u><a href="https://t.me/joinchat/TRlZZilyh-MVa66t">Universal Film Studio Group</a></u></b> ലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
+            അപ്പോ പിന്നെ എന്തിനാ വീണ്ടും വീണ്ടും സ്റ്റാർട്ട് കുത്തി കളിക്കാൻ വരുന്നേ... ആ സൈഡിലോട്ട് എങ്ങാനും മാറി ഇരിക്ക്‌ ഇനി🤭🤭"""format(update.from_user.first_name, GROUP_USERNAME, ADMIN_USERNAME),
         reply_markup=reply_markup,
         parse_mode="html"
     )
