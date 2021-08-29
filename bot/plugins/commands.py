@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    'Join Our Links', url="https://t.me/blasters_links"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    'Join Our Links', url="https://t.me/blasters_links"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/Ts_bots"
+                                    'Join Our Links', url="https://t.me/blasters_links"
                                 )
                         ]
                     ]
@@ -90,10 +90,9 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/Ts_bots'),
-        InlineKeyboardButton('📕 ABOUT', callback_data="about")
+        InlineKeyboardButton('♻️Channel', url='https://t.me/tamilblasters3k'),
+        InlineKeyboardButton('Group📜', url='https://t.me/Tentkottagroup'), 
     ],[
-        InlineKeyboardButton('💡 HELP', callback_data="help"),
         InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     
