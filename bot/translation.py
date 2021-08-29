@@ -14,7 +14,7 @@ For More Details Click Help Button Below..
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 <i>
-What are you ..... Suddenly he came to help 😡 ...I'm Different Bot U Know
+<b><i><u>What are you ..... Suddenly he came to help 😡 ...I'm Different Bot U Know</u></i></b>
 """
     
     ABOUT_TEXT = """
